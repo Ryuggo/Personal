@@ -1,0 +1,7 @@
+Amélioration des saisies pour éviter les erreurs et informer le joueur des problèmes
+Amélioration des paramètres
+Préparation pour l'ajout des objets et des sorts
+Correction du bug d'affichage de l'interface de combat
+Bug combat
+
+-Compacter le code / Réutilisation des lignes
